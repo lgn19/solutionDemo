@@ -59,7 +59,7 @@ python run_example.py
 
 Run the SVR regression model:
 ```bash
-# Specific running commands will be supplemented according to the actual script
+python SVR.py
 ```
 
 ### Model Description
